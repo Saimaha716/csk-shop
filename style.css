@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    background-color: hsl(48, 100%, 51%);
+}
+.navbar-nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-left: 28%;
+    font-weight: bold;
+}
+.main{
+    font-weight: bold;
+    font-size: 15px;
+    color: blue;
+}
+.col img{
+    width: 50%;
+    height: 50%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10%;
+
+}
+.grid{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.pagination{
+    margin-left: 70%;
+}
+.social-media{
+    margin-left: 42%;
+}
+footer{
+    background-color: hsl(206, 100%, 35%);
+    color: white;
+    padding: 25px;
+   
+}
+footer a{
+    color: white;
+    text-decoration: none;
+}
+footer p{
+    margin-left: 40%;
+}
+.bar{
+    margin-left: 32%;
+
+}
+.bar :hover{
+    color: rgb(238, 238, 53);
+}
+footer i{
+    margin-left: 15px;
+}
